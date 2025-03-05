@@ -1,0 +1,14 @@
+name: gunting_batu_kertas
+description: Game tebak-tebakan untuk melatih "Haki" ketika sedang bosan
+version: 1.0.0+1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
