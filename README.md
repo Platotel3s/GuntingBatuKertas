@@ -69,7 +69,7 @@ Jika anda sudah memnuhi tools di atas, silahkan ikuti perintah di bawah ini
 
 ![win](https://github.com/user-attachments/assets/ca9b547b-cd1a-4861-9065-32e92ef26901)
 
-3. Tampilan ketika _Computer_ / mesin atas _human_ (pengguna).
+3. Tampilan ketika _Computer_ / mesin menang atas _human_ (pengguna).
 
 ![lose](https://github.com/user-attachments/assets/faa2ce87-95bc-4e58-aa4c-ff063b1ea168)
 
