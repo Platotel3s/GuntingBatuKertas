@@ -192,7 +192,6 @@ class _GamePageState extends State<GamePage> {
               ],
             ),
             SizedBox(height: 20),
-            // Tombol Mulai Ulang (jika permainan berhenti)
             if (_berhenti)
               ElevatedButton(
                 onPressed: _resetPermainan,
