@@ -59,34 +59,23 @@ Jika anda sudah memnuhi tools di atas, silahkan ikuti perintah di bawah ini
     4. Pemain yang akan mendapatkan 5 point kemenangan dia yang menang
     5. Setelah ada yang menang, akan ada opsi mau melanjutkanlan permainan atau tidak. 
 
-<h2>📸 Screenshot Contoh visual Aplikasi GuntingBatuKertas</h2> 
+<h2>📸 Screenshot Contoh visual Aplikasi GuntingBatuKertas</h2>
 
 1. Tampilan Awal permainan.
+<img src="https://github.com/user-attachments/assets/31ad9069-65de-47f6-9e68-ea2e06d83b67" alt="Tampilan Awal" width="500" height="300">
 
-![start](https://github.com/user-attachments/assets/31ad9069-65de-47f6-9e68-ea2e06d83b67)
-
-2. Tampilan ketika _human_ / pengguna menang atas mesin 
-
-![win](https://github.com/user-attachments/assets/ca9b547b-cd1a-4861-9065-32e92ef26901)
+2. Tampilan ketika _human_ / pengguna menang atas mesin.
+<img src="https://github.com/user-attachments/assets/ca9b547b-cd1a-4861-9065-32e92ef26901" alt="Human Menang" width="500" height="300">
 
 3. Tampilan ketika _Computer_ / mesin menang atas _human_ (pengguna).
-
-![lose](https://github.com/user-attachments/assets/faa2ce87-95bc-4e58-aa4c-ff063b1ea168)
+<img src="https://github.com/user-attachments/assets/faa2ce87-95bc-4e58-aa4c-ff063b1ea168" alt="Computer Menang" width="500" height="300">
 
 4. Tampilan ketika pilihan sama / seri.
+<img src="https://github.com/user-attachments/assets/491d5c9f-8001-4288-be92-1531e5b68c1a" alt="Hasil Seri" width="500" height="300">
 
-![hasil-seri](https://github.com/user-attachments/assets/491d5c9f-8001-4288-be92-1531e5b68c1a)
-  
-7. Tampilan ketika skor akhir dimenangkan oleh _human_ (pengguna)
+5. Tampilan ketika skor akhir dimenangkan oleh _human_ (pengguna).
+<img src="https://github.com/user-attachments/assets/aba50f4c-82e2-4a92-9922-915fa4b58dd0" alt="Human Menang Skor Akhir" width="500" height="300">
 
-![human-win](https://github.com/user-attachments/assets/aba50f4c-82e2-4a92-9922-915fa4b58dd0)
-
-9. Tampilan ketika skor akhir dimenangkan oleh _computer_
-
-![komputer-win](https://github.com/user-attachments/assets/3c17a3b3-5781-40c6-97d6-67cec5ffb714)
-
-
-
-
-
+6. Tampilan ketika skor akhir dimenangkan oleh _computer_.
+<img src="https://github.com/user-attachments/assets/3c17a3b3-5781-40c6-97d6-67cec5ffb714" alt="Computer Menang Skor Akhir" width="500" height="300">
     
